@@ -3,10 +3,10 @@ Github / Git learning tasklist
 - [x] fork the repository
 - [x] cleanup this file on machine
 - [] merge the changes
-- [] create a new branch 
-- [] make some changes
-- [] push them
-- [] cofnrim they work
-- [] revert them
-- [] confirm that worked
+- [x] create a new branch 
+- [x] make some changes
+- [x] push them
+- [x] cofnrim they work
+- [x] revert them
+- [x] confirm that worked
 

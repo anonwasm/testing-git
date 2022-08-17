@@ -11,5 +11,5 @@ Github / Git learning tasklist
 - [x] confirm that worked
 - [x] edit post-merge remotely and confirm it works and add a final line!
 - [x] done [remote] !
-- [ ] done [local] !
+- [x] done [local] !
 

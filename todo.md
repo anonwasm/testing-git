@@ -1,17 +1,7 @@
-# 1POUND
-## 2POUND
-### 3POUND
-#### 4 POUND
+github / git learning tasklist
 
-1. 
-2. 
-3. 
-
-[] - 
-[]-
-[] fork the repository
-[] 
-[] cleanup this file on machine
+[x] fork the repository
+[x] cleanup this file on machine
 [] merge the changes
 [] create a new branch 
 [] make some changes
